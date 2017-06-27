@@ -1,5 +1,4 @@
 # ToolBuilder Demo (27 June 2017)
-Siu Sai Cheong
 Sample spreadsheets for ToolBuilder Demonstration
 
 ## XLSX
