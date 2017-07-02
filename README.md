@@ -1,4 +1,4 @@
-# ToolBuilder Demo (27 June 2017)
+# ToolBuilder Demo
 Sample spreadsheets for ToolBuilder Demonstration
 
 ## XLSX
